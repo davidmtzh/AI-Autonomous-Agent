@@ -118,9 +118,9 @@ Physical Movement
 ├── sonar.h
 ├── printOLED.cpp                 # OLED output for debugging and state feedback
 └── printOLED.h
-
+```
 ---
-```md
+
 
 ## 📎 Why This Project Matters
 
