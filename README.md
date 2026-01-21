@@ -104,6 +104,9 @@ Physical Movement
 ---
 
 ## 📂 Repository Structure
+## 📂 Repository Structure
+
+```text
 /
 ├── FinalProject-Version1.0.ino   # Main Arduino entry point and system integration
 ├── PDController.cpp              # Proportional-Derivative motor control logic
@@ -114,8 +117,9 @@ Physical Movement
 ├── odometry.h
 ├── sonar.cpp                     # Ultrasonic sensor handling and distance estimation
 ├── sonar.h
-├── printOLED.cpp                 # OLED display output for debugging and state feedback
+├── printOLED.cpp                 # OLED output for debugging and state feedback
 └── printOLED.h
+
 
 
 ---
