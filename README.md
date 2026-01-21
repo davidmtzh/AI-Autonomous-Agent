@@ -104,7 +104,6 @@ Physical Movement
 ---
 
 ## 📂 Repository Structure
-## 📂 Repository Structure
 
 ```text
 /
