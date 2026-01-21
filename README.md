@@ -120,8 +120,9 @@ Physical Movement
 └── printOLED.h
 
 ---
+```md
 
-### 📎 Why This Project Matters
+## 📎 Why This Project Matters
 
 This project demonstrates end-to-end autonomous system design, from low-level hardware calibration to high-level decision-making, reflecting real-world robotics engineering practices.
 
